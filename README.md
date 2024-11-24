@@ -1,2 +1,2 @@
 # gaurav-light
-this is a Demo for &amp; github class
+this is a Demo for &amp; github class.
